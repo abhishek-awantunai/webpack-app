@@ -1,4 +1,4 @@
-import Splash from './assets/splash.jpg';
+import Splash from './assets/virus.jpeg';
 import AltText from './assets/alt-text.txt';
 
 export default function addImage() {
